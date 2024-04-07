@@ -29,9 +29,9 @@ volumes:
 ```
 
 2. Заходим в докер, создаем две сессии, отключаем autocommit
-  ![screen1.png]
+  ![screen1.png](screen1.png)
 3. Создаем табличку persons в первой сессии 
-   ![screen2.png]
+   ![screen2.png](screen2.png)
 ## Вопросы
 
 ### Вопрос 1.
